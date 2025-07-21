@@ -52,14 +52,14 @@ compress_html:
   clippings: all
   comments: ["<!--", "-->"]
 # 代码高亮风格，支持的 theme 列表见 https://github.com/mzlogin/rouge-themes
-highlight_theme: github
+highlight_theme: igorpro
 
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: breathe
-organization: 
-organization_url: 
+organization:
+organization_url:
 github_username: breatheCoder
 location: Shanxi, China
 email: 18295991037@163.com
@@ -162,7 +162,7 @@ comments_provider: giscus
 # !!!Important!!! Please modify infos below to yours
 # disqus 配置参考：https://disqus.com
 disqus:
-    username: 
+    username:
 # gitment 配置参考：https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: mzlogin
